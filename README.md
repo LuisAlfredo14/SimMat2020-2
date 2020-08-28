@@ -3,6 +3,8 @@ En este repositorio se encuentran las notas para el curso de simulación matemá
 
 Este curso consiste de tres módulos. 
 
+El profesor de este curso es: Cristian Camilo Zapata.
+
 `Módulo 1.` **Optimización**
 > Se aplicará una evaluación (**exámen**) y se evaluará una presentación de **proyecto.**
    1. ¿Qué es una simulación? - Introducción al lenguaje de trabajo (Python) e instalación de software
